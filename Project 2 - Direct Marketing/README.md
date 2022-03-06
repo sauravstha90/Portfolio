@@ -1,0 +1,1 @@
+       This project showcases which characteristics of a household will result in high sales. The company collects data on previous customers that they have sent catalogs to. Through predictive analytics multiple models are presented to identify how much a person is predicted to spend.
