@@ -1,0 +1,1 @@
+This program connects with a web service in order to pull weather data. The program prompts the user for their city or zip code and request weather forecast data from OpenWeatherMap. The program displays the weather information in a READABLE format to the user.
