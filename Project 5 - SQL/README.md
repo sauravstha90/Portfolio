@@ -1,0 +1,1 @@
+In this project, I connected to the supplied petsDB(Database) using sqlite3.connect() function to retrieve data from database. I retrieved answers to questions such as “Which age group has maximum number of people?”, “How many people have more than one pet?”, “How many pets are there from the city called “east port”?”
