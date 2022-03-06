@@ -1,0 +1,1 @@
+                    In this project, I use a dataset available on Kaggle from Airbnb of New York city to get information and business ideas about learning of different host and areas, such as common price range, frequency of neighborhood group for rooms (Manhattan, Brooklyn, Queens and so on). Additionally, predict which type of room is more likely to be used in the future.
