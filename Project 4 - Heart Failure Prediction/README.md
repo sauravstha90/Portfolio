@@ -1,0 +1,1 @@
+This project seeks to analyze and understand to see if we can create a predictive modeling to know when a patient will have a heart failure disease based on their given health attributes. Additionally, it further test different machine learning models to find the most suitable predictive model.
