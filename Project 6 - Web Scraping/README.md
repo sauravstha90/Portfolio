@@ -1,0 +1,1 @@
+In this project, I used web scraping, pulled API data, combined multiple data sources (API, website, CSV) together for analysis, use needed data modeling techniques to test hypothesis, use graphical tools to present data to tell the story, use Python, SQL to retrieve, clean, merge, store and automate dataset creation, and get knowledge of a data analysis project.
