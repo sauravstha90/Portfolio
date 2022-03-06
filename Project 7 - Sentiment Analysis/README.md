@@ -1,0 +1,1 @@
+This project was created where the program loads a data file and identifies a scheme to categorize each comment as positive or negative. Additionally, we use a tweet xlsx file to categorize if the written tweet by users could be categorized as positive or negative tweets.
