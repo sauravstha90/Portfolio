@@ -1,0 +1,1 @@
+For this project, I created a predictive analytics to understand the credit card application and evaluate the applicants based on the attributes provided in the application form: age, credit payment history, sex, education, income, years employed and so on.
